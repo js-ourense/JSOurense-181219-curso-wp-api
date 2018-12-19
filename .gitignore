@@ -1,0 +1,35 @@
+# Application
+wp-meet-ou-dec-2018/web/app/plugins/*
+!wp-meet-ou-dec-2018/web/app/plugins/.gitkeep
+wp-meet-ou-dec-2018/web/app/mu-plugins/*/
+wp-meet-ou-dec-2018/web/app/upgrade
+wp-meet-ou-dec-2018/web/app/uploads/*
+!wp-meet-ou-dec-2018/web/app/uploads/.gitkeep
+
+wp-meet-ou-dec-2018/logs
+!wp-meet-ou-dec-2018/logs/.gitkeep
+
+# WordPress
+wp-meet-ou-dec-2018/web/wp
+wp-meet-ou-dec-2018/web/.htaccess
+
+# Dotenv
+wp-meet-ou-dec-2018/.env
+wp-meet-ou-dec-2018/.env.*
+!wp-meet-ou-dec-2018/.env.example
+
+# Composer
+/wp-meet-ou-dec-2018/vendor
+
+# WP-CLI
+wp-meet-ou-dec-2018/wp-cli.local.yml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
