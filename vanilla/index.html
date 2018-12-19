@@ -8,7 +8,6 @@
     <h1>POSTS</h1>
     <div id="posts"></div>
     <script>
-        const ul = document.getElementById('posts')
         const url = 'http://wordpress-api-meet.com/wp-json/wp/v2/posts'
         fetch(url)
             .then((resp) => resp.json()) // Transform the data into json
