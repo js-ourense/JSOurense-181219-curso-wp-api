@@ -5,6 +5,8 @@ wp-meet-ou-dec-2018/web/app/mu-plugins/*/
 wp-meet-ou-dec-2018/web/app/upgrade
 wp-meet-ou-dec-2018/web/app/uploads/*
 !wp-meet-ou-dec-2018/web/app/uploads/.gitkeep
+!wp-meet-ou-dec-2018/web/app/plugins/jekyll-exporter                    
+!wp-meet-ou-dec-2018/web/app/plugins/jwt-authentication-for-wp-rest-api
 
 wp-meet-ou-dec-2018/logs
 !wp-meet-ou-dec-2018/logs/.gitkeep
@@ -23,6 +25,9 @@ wp-meet-ou-dec-2018/.env.*
 
 # WP-CLI
 wp-meet-ou-dec-2018/wp-cli.local.yml
+
+
+temp
 
 # OS generated files #
 ######################
