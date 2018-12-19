@@ -12,9 +12,7 @@
 - Un programa muy básico en JavaScript
 - Enseñar la librería de Node.js
 - Enseñar algo más complicado como el ejemplo de React
-- Wordpress y Gatsby
 
 ## Enlaces
 
 - https://www.meetup.com/es-ES/WordPressOurense/events/256887941/
-- 
